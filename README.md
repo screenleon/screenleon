@@ -1,48 +1,42 @@
 # Hi, I'm Lien Chen
 
-Software engineer from Taiwan, based in Japan.
+Software engineer from Taiwan, based in Japan.  
+4+ years across backend systems, web applications, internal tooling, and AI-assisted product development.
 
-I have 4+ years of experience building backend systems, web applications, internal tools, and developer workflows. I like working across Node.js, Go, Java, React, Docker, and AI-assisted product development.
+## Currently building
 
-## What I'm focused on
+- **AI agent infrastructure** — agent rules, dispatch workflows, and prompt tooling to accelerate the full dev cycle (planning → implementation → review)
+- **Backend services & developer tooling** — Go, Java, PostgreSQL, Docker across production systems
+- **JapanJob** — a job matching platform for Chinese-speaking job seekers in Japan *(Go · React Native · PostgreSQL · Redis · Docker)*
+- **Multilingual products** — systems designed for users operating across Taiwan and Japan
 
-- Backend services, developer tooling, and pragmatic product delivery
-- AI agent workflows and prompt infrastructure
-- Multilingual products for teams operating across Taiwan and Japan
-
-## Current work
-
-- Building internal systems and public-facing web services at Tyoho Group
-- Developing `JapanJob`, a job matching platform for Chinese-speaking job seekers in Japan
-- Exploring how AI agents can speed up planning, implementation, and documentation work
+> Most of my active development is AI-assisted —  
+> I use Claude Code with custom agent workflows as a core part of the process.
 
 ## Experience snapshot
 
-- **Tyoho Group**: end-to-end product development across Java, Go, React, React Native, PostgreSQL, Redis, Docker, and GitHub Actions
-- **HP Inc. / vCosmos**: full-stack development in a Scrum team working on cloud-based testing infrastructure
+- **Tyoho Group**: end-to-end product development — Java, Go, React, React Native, PostgreSQL, Redis, Docker, GitHub Actions
+- **HP Inc. / vCosmos**: full-stack in a Scrum team, cloud-based testing infrastructure
 - **K-JUMP Health**: backend and real-time data processing for a health data platform
 
 ## Featured projects
 
 ### [Agent Playbook Template](https://github.com/screenleon/agent-playbook-template)
+Reusable agent rules, subagents, and workflow structure for AI-assisted software delivery.
 
-Reusable agent rules, templates, and workflow structure for AI-assisted software delivery.
+### [pm-dispatch](https://github.com/screenleon/pm-dispatch)
+Personal Claude Code config — PM agent, codex-executor, reviewers, slash commands, dispatch scripts.
+
+### [QA Testing Rules](https://github.com/screenleon/qa-testing-rules)
+Language-agnostic QA rules for AI coding agents — structured docstrings, mutation self-checks, explicit test-layer decisions. Designed for `@import` into `CLAUDE.md` / `AGENTS.md`.
 
 ### [File Share](https://github.com/screenleon/file_share)
-
-LAN file sharing service built with Go, Nginx, and Docker, designed for simple uploads and downloads with low memory usage.
-
-### [Discord Bot](https://github.com/screenleon/discord-bot)
-
-A Discord bot with music playback, Reddit commands, and Docker-based deployment.
-
-### [Resume](https://github.com/screenleon/resume)
-
-Version-controlled resume and CV repository for Japanese and international job applications.
+LAN file sharing service — Go, Nginx, Docker. Low memory usage, simple upload/download.
 
 ## Tech I use
 
-`Node.js` `TypeScript` `Go` `Java` `Spring Boot` `React` `React Native` `PostgreSQL` `Redis` `Docker` `AWS` `Azure` `Linux`
+`Go` `TypeScript` `Node.js` `Java` `Spring Boot`  
+`React` `React Native` `PostgreSQL` `Redis` `Docker` `AWS` `Azure` `Linux`
 
 ## Languages
 
